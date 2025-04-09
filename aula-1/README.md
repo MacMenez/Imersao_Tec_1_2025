@@ -119,6 +119,7 @@ Lembre-se:
 
 - 🌐 [Site Oficial App Inventor](https://appinventor.mit.edu/)
 - 📲 [App Inventor Companion (Play Store)](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=pt_BR)
-- 📁 [Templates e Recursos da Aula](#) <!-- insira link real aqui -->
-- 🎨 [Galeria de Imagens](#) <!-- insira link real aqui -->
-- 🔊 [Recursos de Áudio](#) <!-- insira link real aqui -->
+- 📁 [Templates e Recursos da Aula](templates/) <!-- insira link real aqui -->
+- 🎨 [Galeria de Imagens](imagem/) <!-- insira link real aqui -->
+- 🔊 [Recursos de Áudio](audio/) <!-- insira link real aqui -->
+- 🗒️ [Perguntas do Quiz](perguntas/)
