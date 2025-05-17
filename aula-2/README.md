@@ -1,4 +1,4 @@
-# 🎲 Jogo de Advinhação
+# 🎲 Introdução à Probabilidade
 
 ### Imersão Tec - PUC Minas 2025
 
