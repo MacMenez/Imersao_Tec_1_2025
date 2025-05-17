@@ -1,4 +1,4 @@
-# 🎲 Jogo da Memória
+# 🎲 Jogo de Advinhação
 
 ### Imersão Tec - PUC Minas 2025
 
